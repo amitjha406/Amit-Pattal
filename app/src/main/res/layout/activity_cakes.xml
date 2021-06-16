@@ -47,6 +47,7 @@
 
                         <!-- Title, secondary and supporting text -->
                         <TextView
+                            android:id="@+id/textcake1"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:text="@string/multi_flavoured_floor_cake"
@@ -134,6 +135,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/title"
                         android:fontFamily="@font/cavalier"
+                        android:id="@+id/textcake2"
                         android:textAppearance="?attr/textAppearanceHeadline6"
                         />
                     <TextView
@@ -215,6 +217,7 @@
                         android:layout_height="wrap_content"
                         android:text="@string/butterscotch"
                         android:fontFamily="@font/cavalier"
+                        android:id="@+id/textcake3"
                         android:textAppearance="?attr/textAppearanceHeadline6"
                         />
                     <TextView
@@ -297,6 +300,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/blue_truffle"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake4"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -378,6 +382,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/butterscotch"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake5"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -459,6 +464,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/title"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake6"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -541,6 +547,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/multi_flavoured"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake7"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -623,6 +630,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/mango"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake8"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -704,6 +712,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/butterscotch"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake9"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -785,6 +794,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/black_forest"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake10"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -867,6 +877,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/black_forest"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake11"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -948,6 +959,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/pineapple"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake12"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1029,6 +1041,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/title"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake13"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1109,6 +1122,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/choco_vanilla"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake14"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1190,6 +1204,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/oreo_heart"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake15"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1271,6 +1286,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/chocolate_truffle"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake16"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1351,6 +1367,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/double_chocolate"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake17"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1432,6 +1449,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/brownish_heart"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake18"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1513,6 +1531,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/dark_chocolate_truffle"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake19"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1593,6 +1612,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/black_forest"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake20"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1673,6 +1693,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/vanilla_red_velvet"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake21"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1754,6 +1775,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/choco_vanilla_red_velvet"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake22"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1835,6 +1857,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/choco_strawberry"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake23"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1915,6 +1938,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/strawberry_jelly"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake24"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -1996,6 +2020,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/vanilla_red_velvet"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake25"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2077,6 +2102,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/pure_red_velvet"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake26"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2157,6 +2183,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/vanilla_strawberry"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake27"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2238,6 +2265,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/mango_jelly"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake28"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2318,6 +2346,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/butter_strawberry"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake29"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2398,6 +2427,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/butter_jelly_oreo"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake30"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2478,6 +2508,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/the_minion_cake"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake31"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2558,6 +2589,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/butterscotch_jelly"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake32"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2639,6 +2671,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/butterscotch_gems"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake33"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2719,6 +2752,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/white_forest"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake34"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2799,6 +2833,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/white_chocolate_spl_cake"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake35"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView
@@ -2879,6 +2914,7 @@
                             android:layout_height="wrap_content"
                             android:text="@string/black_current_jelly"
                             android:fontFamily="@font/cavalier"
+                            android:id="@+id/textcake36"
                             android:textAppearance="?attr/textAppearanceHeadline6"
                             />
                         <TextView

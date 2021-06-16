@@ -47,4 +47,8 @@
     <string name="_30_40_pcs">-@30-40/PCS</string>
     <string name="amit">AMIT</string>
     <string name="pattal">PATTAL</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="_3_k_g">3 K.G</string>
+    <string name="_2_k_g">2 K.G</string>
+    <string name="_1_k_g">1 K.G</string>
 </resources>

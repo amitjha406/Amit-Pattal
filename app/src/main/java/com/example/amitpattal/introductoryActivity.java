@@ -35,13 +35,10 @@ public class introductoryActivity extends AppCompatActivity {
         logo.animate().translationY(2500).setDuration(2000).setStartDelay(3000);
         //lottie.animate().translationY(1400).setDuration(2000).setStartDelay(8000);
 
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                Intent intent = new Intent(introductoryActivity.this,MainActivity.class);
-                startActivity(intent);
-                finish();
-            }
+        new Handler().postDelayed(() -> {
+            Intent intent = new Intent(introductoryActivity.this,MainActivity.class);
+            startActivity(intent);
+            finish();
         },SPLASH_SCREEN);
     }
 }
